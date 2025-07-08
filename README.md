@@ -1,2 +1,2 @@
 # registrationform
-Simple registration form using tinkter
+Simple registration form using tkinter
